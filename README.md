@@ -1,2 +1,2 @@
-# 3DS-2DS-Stuff
-3DS-2DS Tools
+# 3DS-2DS-AIO-PACK
+Aqui: https://github.com/TheWizWikii/3DS-2DS-AIO-PACK/releases encontraras todos los packs de archivos para liberar tu 2DS y 3DS
